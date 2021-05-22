@@ -281,7 +281,7 @@ h1, h2, h3, h4, h5, h6, figure {
   background: rgba(34, 145, 119, 0.9);
 }
 #fh5co-about{
-  background: #FF9000;
+  background: #d88715;
   color: white;
 }
 #fh5co-about,
@@ -314,7 +314,7 @@ h1, h2, h3, h4, h5, h6, figure {
 
 .fh5co-bg-dark {
   background: #2F3C4F;
-  background: #FF9000;
+  background: #d88715;
 }
 .fh5co-bg-dark .fh5co-heading h2 {
   color: #fff !important;
@@ -715,13 +715,13 @@ h1, h2, h3, h4, h5, h6, figure {
 
 .work {
   background-size: cover;
-  background-position: center center;
-  background-repeat: no-repeat;
+  background-position: center;
   position: relative;
-  height: 270px;
+  height: 100%;
   width: 100%;
   display: table;
   overflow: hidden;
+  
 }
 @media screen and (max-width: 768px) {
   .work {
